@@ -1,6 +1,7 @@
 package practice;
 public class login {
     public static void main(String[] args) {
+        System.out.println("uuuuuuuu");
         System.out.println("Login Page");
     }
 }
